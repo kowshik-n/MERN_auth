@@ -16,7 +16,7 @@ app.use("/api", router);
 
 mongoose
   .connect(
-    "mongodb+srv://kowshikprogrammer:MnPETj4PvOICcBGj@cluster0.d71tzpw.mongodb.net/authw?retryWrites=true&w=majority&appName=Cluster0"
+    ""
 
     // "mongodb://127.0.0.1:27017"
   )
